@@ -1,0 +1,440 @@
+    1  ls
+    2  cd Desktop
+    3  cd Dem
+    4  cd Demo
+    5  cd Demo1
+    6  ls
+    7  get status
+    8  git status
+    9  clear
+   10  git pull origin master
+   11  git init
+   12  git add .
+   13  git status
+   14  git push origin master
+   15  git pull origin master
+   16  git add .
+   17  git commit -m "added scannerclass closed msg"
+   18  git pull origin master
+   19  git add .
+   20  git status
+   21  git commit -m "added"
+   22  git push -u origin master
+   23  nano LeapYear.java
+   24  nano LeapYear.java
+   25  git add .
+   26  git staus
+   27  git status
+   28  git push origin master
+   29  git add .
+   30  git status
+   31  git pull origin master
+   32  nano LeapYear.java
+   33  ls
+   34  nano LeapYear
+   35  nano LeapYear .java
+   36  nano LeapYear.java
+   37  clear
+   38  git init
+   39  git add  .
+   40  git status
+   41  git pull origin master
+   42  nano LeapYear.java
+   43  git add .
+   44  git commit -m "updated"
+   45  git push origin master
+   46  git push -u origin master
+   47  nano LeapYear.java
+   48  nano LeapYear.java
+   49  git branch
+   50  get checkout -b child1
+   51  git checkout -b feature
+   52  git branch
+   53  git add .
+   54  git init
+   55  git add .
+   56  git status
+   57  ls
+   58  nano LeapYear.java
+   59  nano LeapYear.txt
+   60  ls
+   61  nano LeapYear.java
+   62  git add .
+   63  ls
+   64  nano LeapYear.java
+   65  git checkout master
+   66  git init
+   67  git add .
+   68  git status
+   69  git commit -m "added"
+   70  git push -u origin master
+   71  git remote add origin https://github.com/Thalari-Yeshwanth/MyRepo.git
+   72  git push -u origin master
+   73  git checkout -b child
+   74  nano test.txt
+   75  git add .
+   76  git status
+   77  git commit -m "etided in child"
+   78  git push origin child
+   79  git checkout master
+   80  git merge child
+   81  git push -u origin master
+   82  clear
+   83  ls
+   84  nano test.txt
+   85  git status
+   86  git commit -m "added adiitionaly"
+   87  git push -u origin master
+   88  ls
+   89  nano test.txt
+   90  git add .
+   91  git status
+   92  git commit -m "added additionally"
+   93  git push -u origin master
+   94  git checkout child
+   95  git merge master
+   96  git push -u origin child
+   97  git init
+   98  git add second.txt
+   99  git status
+  100  git commit -m "first commit"
+  101  git remote add origin https://github.com/Thalari-Yeshwanth/practise.git
+  102  git push -u origin master
+  103  clear
+  104  clear
+  105  git init
+  106  git add .
+  107  git status
+  108  git commit -m "firstcommit"
+  109  Core I3@Lavanya MINGW64 ~/Desktop/demo2
+  110  $ git init
+  111  Initialized empty Git repository in C:/Users/Core I3/Desktop/demo2/.git/
+  112  Core I3@Lavanya MINGW64 ~/Desktop/demo2 (master)
+  113  $ git add .
+  114  Core I3@Lavanya MINGW64 ~/Desktop/demo2 (master)
+  115  $ git status
+  116  On branch master
+  117  No commits yet
+  118  Changes to be committed:
+  119    (use "git rm --cached <file>..." to unstage)
+  120          new file:   second.txt
+  121  Core I3@Lavanya MINGW64 ~/Desktop/demo2 (master)
+  122  $ git commit -m "firstcommit"
+  123  [master (root-commit) 36af921] firstcommit
+  124   1 file changed, 1 insertion(+)
+  125   create mode 100644 second.txt
+  126  Core I3@Lavanya MINGW64 ~/Desktop/demo2 (master)
+  127  $
+  128  git status
+  129  git add .
+  130  git status
+  131  git init
+  132  git add .
+  133  git status
+  134  git remote add origin https://github.com/Thalari-Yeshwanth/practise.git
+  135  git push origin master
+  136  git checkout -b child
+  137  status
+  138  git status
+  139  git add .
+  140  git status
+  141  ls
+  142  nano second.txt
+  143  git commit -m "changed in child"
+  144  git add .
+  145  git status
+  146  git commit -m "changed"
+  147  git push origin child
+  148  git checkout master
+  149  git merge child
+  150  git push origin master
+  151  clear
+  152  ls
+  153  ls -l
+  154  ls
+  155  ls
+  156  ls -l
+  157  ls -a
+  158  ls -l
+  159  chmod 777 test
+  160  chmod 777 test.txt
+  161  ls -l
+  162  ls
+  163  ls -l
+  164  chmod 664 test.txt
+  165  chmod 664 test
+  166  ls
+  167  chmod 664 text.txt
+  168  ls
+  169  chmod 664 test.txt
+  170  ls -l
+  171  chmod 444 test.txt
+  172  ls -l
+  173  chmod 764 test.txt
+  174  ls -l
+  175  ls
+  176  pwd
+  177  cd .
+  178  cd ..
+  179  ls
+  180  cd bootcamp
+  181  ls
+  182  cd day1
+  183  ls
+  184  pwd
+  185  cd ..
+  186  cd ~
+  187  pwd
+  188  ls
+  189  cd Desktop
+  190  pwd
+  191  ls
+  192  ls -l
+  193  ls -a
+  194  cd ls
+  195  ls
+  196  clear
+  197  ls
+  198  ls -l
+  199  cd ~
+  200  ls
+  201  git clone https://github.com/edurekavivekh/linux-content.git
+  202  java -version
+  203  git clone https://github.com/edurekavivekh/linux-content.git
+  204  cd ~
+  205  cd Desktop
+  206  mkdir terminalcommands
+  207  ls
+  208  cd terminalcommands
+  209  ls
+  210  cd ..
+  211  cd codes
+  212  ls
+  213  ls
+  214  cd linux-content
+  215  ls
+  216  nano linux_chit_sheet.pdf
+  217  ls
+  218  ls -l
+  219  ls -a
+  220  ls linux_content/
+  221  ls linux-content/
+  222  cd ..
+  223  ls linux-content/
+  224  ls linux-content/linux_
+  225  ls linux-content/linux
+  226  ls -l linux-content/linux_
+  227  ls -l linux-content/linux_chit_sheet.pdf 
+  228  ls -l linux-content/
+  229  ls -l linux-content/linux*
+  230  ls -al
+  231  clear
+  232  pwd
+  233  ls ~
+  234  cd ~
+  235  pwd
+  236  cd -
+  237  clear
+  238  cd ..
+  239  cd -
+  240  cd ~
+  241  pwd
+  242  cd -
+  243  mkdir temp
+  244  ls
+  245  rm -r temp
+  246  ls
+  247  mkdir -p temp/temp1
+  248  ls
+  249  cd temp
+  250  ls
+  251  cd ..
+  252  ls
+  253  rm -r temp/temp1
+  254  ls
+  255  cd temp
+  256  ls
+  257  mkdir temp1
+  258  ls
+  259  cd ..
+  260  rm -r temp
+  261  ls
+  262  mkdir temp
+  263  cd temp
+  264  touch a.txt b.txt
+  265  ls
+  266  touch test
+  267  ls -p
+  268  mkdir test2
+  269  ls -p
+  270  ls -l
+  271  clear
+  272  cp a.txt b.txt
+  273  ls
+  274  nano b.txt
+  275  where is cp
+  276  where is temp
+  277  whereis
+  278  whereis temp
+  279  whereis a.txt
+  280  where temp
+  281  whereis a.txt
+  282  where a.txt
+  283  where txt
+  284  where a.txt
+  285  c
+  286  clear
+  287  cd ..
+  288  ls -l/bin
+  289  ls -l
+  290  ls -l/bin
+  291  clear
+  292  ls linux-content
+  293  cd ~
+  294  mkdir quick
+  295  cd -
+  296  ln -s linux-content/linux_chit_sheet.pdf ~/quick/
+  297  cd ~
+  298  ls
+  299  ln -s linux-content/linux_chit_sheet.pdf ~/quick/
+  300  cd -
+  301  ln -s linux-content/linux_chit_sheet.pdf ~/quick/
+  302  cd desktop
+  303  cd ~
+  304  cd Desktop
+  305  cd ~
+  306  ls
+  307  cd -
+  308  ln -s linux-content/linux_chit_sheet.pdf  ~/Desktop/
+  309  ls
+  310  ln -s linux-content/linux_chit_sheet.pdf C:\Users\Core I3\Desktop\codes\link
+  311  ln -s C:\Users\Core I3\Desktop\codes\linux-content/linux_chit_sheet.pdf C:\Users\Core I3\Desktop\link
+  312  ln -s C:\Users\Core I3\Desktop\codes\linux-content\linux_chit_sheet.pdf C:\Users\Core I3\Desktop/link
+  313  ln -s C:\Users\Core I3\Desktop\codes\linux-content\linux_chit_sheet.pdf C:\Users\Core I3\Desktop\link
+  314  ln -s ~/Desktop/codes/linux-content/linux_chit_sheet.pdf ~/Desktop/link
+  315  ls -l ~/Desktop/link
+  316  clear
+  317  man ls
+  318  man ls
+  319  man ls
+  320  help ls
+  321  help dir
+  322  ls /etc
+  323  ls
+  324  cat a.txt
+  325  less /etc
+  326  ls /etc
+  327  ls
+  328  cat linux_chit_sheet.pdf 
+  329  head -20 linux_chit_sheet.pdf 
+  330  tail -20 linux_chit_sheet.pdf 
+  331  head linux_chit_sheet.pdf 
+  332  tail linux_chit_sheet.pdf 
+  333  clear
+  334  find . -size +5m
+  335  find . -size +5M
+  336  find . -size 5M
+  337  find . -size +5M -name*.pdf
+  338  find . -size +5M -name *.pdf
+  339  find . -size +5M -type f -name *.pdf
+  340  find . -size +5M -type f | grep .pdf
+  341  clear
+  342  cd ..
+  343  ls
+  344  cd linux-content/
+  345  ls
+  346  cat data.csv 
+  347  find . name *.csv
+  348  cd ..
+  349  ls
+  350  cd-
+  351  cd -
+  352  ls
+  353  find . -name *.csv
+  354  clear
+  355  cd ..
+  356  grep -i captain linux-content/data.csv
+  357  grep -i captain
+  358  grep -ir captain
+  359  ls -p
+  360  ls -p | grep /
+  361  cd ..
+  362  ls -p | grep /
+  363  ls -p | grep -v /
+  364  ls
+  365  cd linux-content/
+  366  ls
+  367  cat data.csv 
+  368  env
+  369  env | grep -i home
+  370  env | grep -i user
+  371  echo $user
+  372  echo $USER
+  373  echo $users
+  374  env
+  375  echo $core I3
+  376  where bash
+  377  bash -version
+  378  echo $SHELL
+  379  CLEAR
+  380  cd ..
+  381  du -sh linux-content/
+  382  du -sm linux-content/
+  383  du -sk linux-content/
+  384  du -sk linux-content/*
+  385  du -sk linux-content/* | sort -n
+  386  du -sk linux-content/* | sort -nr
+  387  find . -type f -empty
+  388  ls
+  389  cd temp
+  390  ls
+  391  touch Hello.java
+  392  ls
+  393  nano Hello.java
+  394  java Hello.java
+  395  javac Hello.java
+  396  java Hello
+  397  java -verion
+  398  java -version
+  399  ps elf
+  400  ps -elf
+  401  ps -elf | more
+  402  nano Hello.java
+  403  ps
+  404  elf
+  405  ps elf
+  406  ps elf | more
+  407  ps elf | less
+  408  nano Hello.java
+  409  javac Hello.java
+  410  nano Hello.java
+  411  javac Hello.java
+  412  nano Hello.java
+  413  javac Hello.java
+  414  nano Hello.java
+  415  javac Hello.java
+  416  java Hello
+  417  nano Hello.java
+  418  clear
+  419  ls
+  420  nano Hello.java
+  421  javac Hello.java
+  422  java Hello
+  423  java Hello
+  424  jobs
+  425  fg %1
+  426  java Hello
+  427  jobs
+  428  bg %1
+  429  nano Hello.java
+  430  cd ..
+  431  ls
+  432  cd linux-content/
+  433  ls
+  434  cat data.csv
+  435  cat data.csv | grep -i captain
+  436  cat data.csv | grep -i captain | awk '{print $2 " " $4}'
+  437  cat data.csv | grep -i captain | awk '{sum+=$4} END {print sum}'
+  438  cat data.csv | grep -i captain | awk '{sum+=$4} END {print sum/NR}'
+  439  history > touch history.txt
+  440  history > history.txt
