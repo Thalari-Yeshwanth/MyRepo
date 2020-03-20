@@ -1,0 +1,3 @@
+echo $(($RANDOM))
+variable=$(($RANDOM%10+1))
+ECHO numbers from 1-10= $variable
