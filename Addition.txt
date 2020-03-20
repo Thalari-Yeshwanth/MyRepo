@@ -1,0 +1,5 @@
+echo enter first number
+read x;
+echo  enter second number
+read y;
+echo Addition of those two numbers  $(($x + $y))
