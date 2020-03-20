@@ -1,0 +1,15 @@
+echo enter f for Farenheat or c for  celisus
+read temp
+if [ "$temp" = "f" ]
+then 
+	echo enter celisus
+	read celisus
+	result=$((($celisus*9/5)+32))
+	echo $result F
+else
+	echo enter Farenheat
+	read farenheat
+	result=$((($farenheat-32)*5/9))
+	echo $result C
+fi
+echo completed
